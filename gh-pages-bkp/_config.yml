@@ -1,0 +1,8 @@
+title: Campanha do php.rio de 2016
+description: Campanha de arrecadação de fundos para o novo domínio de 2016
+google_analytics: 
+show_downloads: false
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
